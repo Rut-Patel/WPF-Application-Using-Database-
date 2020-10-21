@@ -2,7 +2,7 @@
  * Name: - Rut Patel
  * SID: - 100774814
  * View  lendout.xaml.cs
- * **************************/
+ * ***************************/
 
 using System;
 using System.Collections.Generic;
