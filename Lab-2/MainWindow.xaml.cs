@@ -57,6 +57,13 @@ namespace Lab_2
                     this.ContentPanel.Children.Add(controlView);
 
                 }
+                if (listview.SelectedItem.Equals(lstOptionSearch))
+                {
+                    Control controlView = new Searchoption();
+
+                    this.ContentPanel.Children.Add(controlView);
+
+                }
             }
         }
     }

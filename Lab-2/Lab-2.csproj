@@ -73,6 +73,9 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Searchoption.xaml.cs">
+      <DependentUpon>Searchoption.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Viewlendout.xaml.cs">
       <DependentUpon>Viewlendout.xaml</DependentUpon>
     </Compile>
@@ -95,6 +98,10 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="Searchoption.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Viewlendout.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
