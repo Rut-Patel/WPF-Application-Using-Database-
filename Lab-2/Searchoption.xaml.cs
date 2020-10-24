@@ -1,4 +1,11 @@
-﻿using System;
+﻿/****************************
+ * Name: - Rut Patel
+ * SID: - 100774814
+ * Searchoption.xaml.cs
+ * References:-https://www.youtube.com/watch?v=V6NnrIXN6dY
+ * ***************************/
+
+using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Windows;
